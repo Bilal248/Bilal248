@@ -1,8 +1,8 @@
-# Hi there, I'm Bilal Ahmad Khan 👋
+# Hi there, I'm Bilal Ahmad Khan 
 
 <p align="center">
   <b>Full-Stack Developer | Founder | AI/ML Enthusiast | iOS Developer</b><br/>
-  📍 Peshawar, KP, Pakistan &nbsp;|&nbsp; 💼 Open to opportunities
+  📍 Peshawar, KP, Pakistan &nbsp;|&nbsp; Open to opportunities
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer with a diverse skill set spanning **Full-Stack Development**, **Mobile App Development (iOS & Flutter)**, **Machine Learning**, and **Systems Programming**. I love building innovative solutions that solve real-world problems using cutting-edge technologies.
 
@@ -19,19 +19,19 @@ I'm also the **Founder of Teekaala** (a mobile/software product) and the **Found
 
 ---
 
-## 🏢 Founder Roles
+## Founder Roles
 
-### 📱 Teekaala
+### Teekaala
 **Founder**
 Building and leading the product and engineering vision for Teekaala, an app focused on delivering a smooth, real-world user experience from concept to launch.
 
-### 💻 Hameesh
+### Hameesh
 **Founder — Software Company**
 Founded and run Hameesh, a software company delivering full-stack, mobile, and AI-driven solutions for clients, while leading product strategy and technical execution.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Mobile Development**
 <p><img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin" /></p>
@@ -56,7 +56,7 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 ### 🤖 AI & Robotics
 - **[Mighty-Eagle](https://github.com/Bilal248/Mighty-Eagle)** — AI-driven drone system for bomb identification and disposal
@@ -66,7 +66,7 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 ### 🏥 Healthcare & Diagnostic Systems
 - **[Smart-Medical-Diagnostic-System](https://github.com/Bilal248/Smart-Medical-Diagnostic-System)** — Rule-based system for disease diagnosis
 - **[Royal-Hospital](https://github.com/Bilal248/Royal-Hospital)** — Hospital management system in C
-- **[JERTOI-iOS](https://github.com/Bilal248/JERTOI-iOS)** — macOS app for anomaly detection in system processes using SwiftUI
+- **[JEROTI-iOS](https://github.com/Bilal248/JERTOI-iOS)** — macOS app for anomaly detection in system processes using SwiftUI
 
 ### 🚗 Mobility & Transportation
 - **[CarConnect](https://github.com/Bilal248/CarConnect)** — Car pooling app (Flutter + Serverpod backend)
@@ -89,19 +89,10 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 ### 🔧 Other Projects
 - **[Royals-Hospital-iOS](https://github.com/Bilal248/Royals-Hospital-iOS)** — Hospital management iOS application
 - **[TechnoWiz](https://github.com/Bilal248/TechnoWiz)** — PHP-based web application
-- **[FSE](https://github.com/Bilal248/FSE)** — Full Stack Engineering coursework
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bilal248&show_icons=true&theme=default&count_private=true" alt="Bilal's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal248&layout=compact&theme=default" alt="Top Languages" />
-</p>
+## GitHub Statistics
 
 - **Total Repositories**: 24+
 - **Public Projects**: All repositories are public
@@ -112,19 +103,19 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 
 ## 🎓 Experience & Expertise
 
-✅ Founder & Product Lead — Teekaala  
-✅ Founder — Hameesh (Software Company)  
-✅ Native iOS Development (Swift, SwiftUI)  
-✅ Cross-platform Mobile (Flutter/Dart)  
-✅ Full-Stack Web Development  
-✅ Machine Learning & AI Integration  
-✅ Systems Programming (Rust, C++)  
-✅ Backend Development (Python, PHP)  
-✅ Hardware Integration (Arduino, Raspberry Pi)
+Founder & Product Lead — Teekaala  
+Founder — Hameesh (Software Company)  
+Native iOS Development (Swift, SwiftUI)  
+Cross-platform Mobile (Flutter/Dart)  
+Full-Stack Web Development  
+Machine Learning & AI Integration  
+Systems Programming (Rust, C++)  
+Backend Development (Python, PHP)  
+Hardware Integration (Arduino, Raspberry Pi)
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 - Advanced SwiftUI patterns and modern iOS architecture
 - Rust systems programming
 - AI/ML model optimization
@@ -133,7 +124,7 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p>
 <a href="https://github.com/Bilal248"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -144,7 +135,7 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 
 ---
 
-## 📝 Fun Facts
+## Fun Facts
 
 - Started coding in C and have since mastered multiple paradigms
 - Founded two ventures — Teekaala and Hameesh — while continuing to build as an engineer
@@ -154,7 +145,7 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 
 ---
 
-## 💼 Looking For
+## Looking For
 
 Interested in opportunities and collaborations involving:
 - Full-stack development roles
@@ -163,8 +154,6 @@ Interested in opportunities and collaborations involving:
 - Systems engineering roles
 - Partnerships and growth for Teekaala and Hameesh
 
-Feel free to reach out if you'd like to collaborate or discuss potential opportunities! 🚀
+Feel free to reach out if you'd like to collaborate or discuss potential opportunities! 
 
 ---
-
-*Last updated: September 2, 2026*

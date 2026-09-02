@@ -33,59 +33,26 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 
 ## 💻 Technical Skills
 
-### Mobile Development
-<p>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
+**Mobile Development**
+<p><img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin" /></p>
 
-### Backend Development
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+**Backend Development**
+<p><img src="https://skillicons.dev/icons?i=python,django,php" /></p>
 
-### Systems Programming
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-</p>
+**Systems Programming**
+<p><img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" /></p>
 
-### Web Development
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Web Development**
+<p><img src="https://skillicons.dev/icons?i=js,html,css" /></p>
 
-### Data Science & ML
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+**Data Science & ML**
+<p><img src="https://skillicons.dev/icons?i=py,sklearn,numpy,pandas" /></p>
 
-### Databases
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></p>
 
-### Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,raspberrypi,arduino,vscode" /></p>
 
 ---
 
@@ -169,7 +136,7 @@ Founded and run Hameesh, a software company delivering full-stack, mobile, and A
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/Bilal248"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Bilal248"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 - **Location**: Peshawar, KP, Pakistan
